@@ -19,3 +19,8 @@ The cards in the list have equal probability of being drawn.
 Cards are not removed from the deck as they are drawn.
 
 The computer is the dealer.
+
+# Screenshots
+
+![preview](images/preview.png)
+![preview2](images/preview2.png)
